@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="음식점" android:id="@+id/itemRest"/>
+
+    <item android:title="카페" android:id="@+id/itemCafe"/>
+
+    <item android:title="은행" android:id="@+id/itemBank"/>
+
+    <item android:title="빵집" android:id="@+id/itemBakery"/>
+
+    <item android:title="병원" android:id="@+id/ItemHospital"/>
+
+    <item android:title="약국" android:id="@+id/ItemPharmacy"/>
+
+    <item android:title="버스정류장" android:id="@+id/ItemBus"/>
+
+</menu>
