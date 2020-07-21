@@ -22,3 +22,4 @@
 :mag_right: 최종  
 * 구글지도를 활용해 어플만들기 
 * BabyFirst 스마트 임산부 좌석 예약 어플
+	* https://github.com/gmksf99/BabyFirst.git
